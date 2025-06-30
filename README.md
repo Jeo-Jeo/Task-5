@@ -1,2 +1,3 @@
 # Task-5
 Decision Trees and Random Forests
+This analyzes a heart disease dataset. It starts by loading the data and checking for missing values and correlations between features. Then, it splits the data into training and testing sets. Two classification models, Decision Tree and Random Forest, are trained and evaluated for accuracy. The Decision Tree model's structure is visualized, and its performance is analyzed at different depths to check for overfitting. Finally, the Random Forest model's feature importances are visualized, and its performance is assessed using cross-validation. The processed data is then saved to a new CSV file.
